@@ -499,3 +499,13 @@ h1 {
 .header h1{
     text-align: left;
 }
+@media only screen and (max-width:500px) {
+    .navbar{
+        padding-bottom: 20px !important;
+    }
+    .navbar h1{
+        font-size: 22px;
+        position: relative;
+        top: 11px;
+    }
+}
