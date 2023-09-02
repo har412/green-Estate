@@ -523,3 +523,6 @@ h1 {
     height: 70px !important;
     }
 }
+iframe{
+    width: 100%;
+}
